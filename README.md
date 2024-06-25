@@ -71,6 +71,3 @@ This system recommends books by calculating similarities in Book Titles. For thi
 * numpy, scipy- number python library
 * pandas - data handling library
 
-### 4. Acknowledgments:
-
-Machine Learning Monsoon 2020 (CSE543) @IIIT Delhi
